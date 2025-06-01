@@ -13,7 +13,12 @@
         <pubDate>Sun, 01 Jun 2025 21:50:05 +0800</pubDate>
         
         <guid>http://localhost:1313/p/addtest/</guid>
-        <description></description>
+        <description>&lt;h1 id=&#34;发布新文章测试&#34;&gt;发布新文章测试
+&lt;/h1&gt;&lt;h2 id=&#34;标题1&#34;&gt;标题1
+&lt;/h2&gt;&lt;p&gt;这是一篇发布文章测试&lt;/p&gt;
+&lt;h2 id=&#34;标题2&#34;&gt;标题2
+&lt;/h2&gt;&lt;p&gt;随便写写&lt;/p&gt;
+</description>
         </item>
         <item>
         <title>Test</title>
